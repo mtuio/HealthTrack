@@ -1,7 +1,9 @@
 ### Installing the backend box in a VM
 
 Install Vagrant
+
 If on Windows, get git bash; 
+
 To start a shell in a specific folder w/ git bash to to that folder with Windows explorer, right click and select `git bash here`
 
 Clone this project
